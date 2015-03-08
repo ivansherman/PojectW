@@ -17,7 +17,8 @@ gem 'jbuilder', '~> 2.0'
 
 ## Added -- Not included with the default Rails Gems
 gem 'httparty'
-
+gem 'pry-rails'
+gem 'awesome_print'
 
 
 # bundle exec rake doc:rails generates the API under doc/api.
